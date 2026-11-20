@@ -49,6 +49,11 @@ Developed by: RegisterNumber:
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
+<img width="1917" height="1016" alt="exper5 1st" src="https://github.com/user-attachments/assets/5ff7be7c-e29f-4a4f-8ef2-c50a3a646b71" />
+
+<img width="1917" height="1016" alt="experiment 5 2nd" src="https://github.com/user-attachments/assets/18496a55-40eb-44ca-b1ef-675b4184ea47" />
+
+
 **RESULTS**
 
 
